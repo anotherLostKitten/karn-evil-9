@@ -1,4 +1,4 @@
 run:
 	python3 this.py
 clean:
-	rm *~* \#*\# -rf *.ppm *.png
+	rm *~* \#*\# -rf *.ppm *.png *.pyc __pycache__/ *.out parsetab.py
